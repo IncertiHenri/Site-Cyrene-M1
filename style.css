@@ -7,4 +7,5 @@ body {
 img {
     width: 610px;
     height: 550px;
+    border-radius: 50px;
 }
