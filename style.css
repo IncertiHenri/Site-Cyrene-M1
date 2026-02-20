@@ -1,3 +1,9 @@
 body {
     background-color:rgb(245, 155, 245);
+    color:white;
+}
+
+img {
+    width: 610px;
+    height: 550px;
 }
