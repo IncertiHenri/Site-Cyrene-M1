@@ -1,7 +1,10 @@
 body {
     background-color:rgb(245, 155, 245);
-    color:rgb(196, 86, 153);
+    color:rgb(255, 255, 255);
     font-family: fantasy;
+    background-image: url(https://static.wikia.nocookie.net/houkai-star-rail/images/9/94/Area_Aedes_Elysiae.png/revision/latest/scale-to-width-down/1000?cb=20250907164900);
+    background-size: cover;
+    
 }
 
 img {
